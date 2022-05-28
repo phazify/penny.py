@@ -20,7 +20,7 @@ print(f'''{Fore.GREEN}
 | $$      | $$  | $$| $$  | $$|  $$    \|   $$ \| $$          | $$    
  \$$       \$$   \$$ \$$   \$$ \$$$$$$$$ \$$$$$$ \$$           \$$    
              ___________LOGGED IN AS: {user}___________                                             
-                       STAR6ET X PHAZIFY MADE THIS
+                       STAR6ET X PERK MADE THIS
                                                                                     
         ''' + Fore.GREEN)
 
